@@ -21,46 +21,141 @@ I'm a passionate developer interested in building practical applications using *
 
 I enjoy creating projects that combine software development with artificial intelligence to solve real-world problems.
 
+## 🎯 Open to Opportunities
+
+I am interested in entry-level opportunities in:
+
 - 🐍 Python Developer
-- 🌐 Flask Web Application Developer
-- 🤖 Machine Learning Enthusiast
-- 📊 Data Analysis
-- 🏥 Interested in AI-powered Healthcare Solutions
-- 🚀 Learning and building real-world projects
+- 🌐 Flask / Backend Developer
+- 🤖 Machine Learning Intern
+- 📊 Data Analyst Intern
+- 💻 Software Developer
+- ☕ Java Developer
+- 🗄️ Junior Backend Developer
+
+I am open to learning new technologies and contributing to
+real-world software development projects.
+---
+
+## 💻 Technical Skills
+
+### 🐍 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+</p>
+
+- Python
+- Java
+- JavaScript
+- HTML5
+- CSS3
 
 ---
 
-## 🛠️ Tech Stack
+### 🌐 Web Development
 
-### Programming & Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,js" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,html,css,javascript" />
 </p>
 
-### Data & Machine Learning
+- Flask
+- REST API Development
+- Backend Development
+- Frontend Development
+- Responsive Web Design
+- CRUD Applications
+- Form Handling
+- HTTP & Web Fundamentals
+- JSON
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+---
 
-- Pandas
+### 🤖 AI & Machine Learning
+
+- Machine Learning
 - Scikit-learn
+- Pandas
 - NumPy
 - Joblib
-- Machine Learning
+- Data Preprocessing
+- Feature Engineering
+- Model Training
+- Model Evaluation
+- Prediction Systems
+- Data Analysis
 
-### Tools & Deployment
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### 🗄️ Databases & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+- SQL
+- MySQL
+- SQLite
+- Database Design
+- CRUD Operations
+- Data Management
+- Data Processing
+
+---
+
+### 🧰 Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 - Git
 - GitHub
-- VS Code
-- Render
+- IntelliJ IDEA
+- Visual Studio Code
+- GitHub Projects
+- Version Control
+- Debugging
+- Deployment
 
+---
+
+### ☁️ Deployment & Cloud
+
+- Render
+- Flask Deployment
+- Production Configuration
+- Environment Variables
+- Application Deployment
+- Git-based Deployment
+
+---
+
+### 🔧 Software Development
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Problem Solving
+- Debugging & Troubleshooting
+- Exception Handling
+- Modular Programming
+- Code Organization
+- Version Control
+- Basic Software Architecture
+
+---
+
+## 🧠 Professional Strengths
+
+- Problem Solving
+- Analytical Thinking
+- Logical Thinking
+- Team Collaboration
+- Communication
+- Quick Learning
+- Project Development
+- Debugging
+- Continuous Learning
 ---
 
 ## 🚀 Featured Project
