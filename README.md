@@ -197,15 +197,51 @@ A Flask-based healthcare application that combines hospital management, data pro
 ---
 
 ### 🏦 Bank Transaction Management System
+A responsive web-based banking application built with HTML, CSS, and JavaScript.
 
-**Python | Java | SQL | Database | Web Technologies**
+**Features:**
+- 💰 Deposit and withdrawal
+- 💳 Real-time balance calculation
+- 🧾 Transaction history
+- ✅ Input validation
+- 📱 Responsive design
+- 🚀 GitHub Pages deployment
 
-- Developed a banking transaction management application.
-- Implemented transaction processing and account management.
-- Added transaction history and data management functionality.
-- Used database operations for storing and retrieving information.
-- Applied programming and problem-solving concepts to a real-world
-  financial application.
+**Tech Stack:** HTML • CSS • JavaScript • Git • GitHub Pages
+
+<p>
+  <a href="https://munnakalyani.github.io/bank-transaction-system/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-View%20Project-2ea44f?style=for-the-badge">
+  </a>
+  <a href="https://github.com/munnakalyani/bank-transaction-system">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+## 🚀 Featured Projects
+
+### 🏥 AI Hospital Management System
+
+**Python • Flask • Pandas • Scikit-learn • Machine Learning**
+
+AI-powered hospital management web application.
+
+🔗 **[Live Demo](https://ai-hospital-management-system-3q5i.onrender.com)**  
+💻 **[Source Code](https://github.com/munnakalyani/ai-hospital-management-system)**
+
+---
+
+### 🏦 Bank Transaction Management System
+
+**HTML • CSS • JavaScript • GitHub Pages**
+
+Responsive banking application with transaction management and real-time balance calculation.
+
+🔗 **[Live Demo](https://munnakalyani.github.io/bank-transaction-system/)**  
+💻 **[Source Code](https://github.com/munnakalyani/bank-transaction-system)**
+
+---
+
+
 
 ## 📊 GitHub Status
 
