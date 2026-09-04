@@ -229,20 +229,6 @@ AI-powered hospital management web application.
 💻 **[Source Code](https://github.com/munnakalyani/ai-hospital-management-system)**
 
 ---
-
-### 🏦 Bank Transaction Management System
-
-**HTML • CSS • JavaScript • GitHub Pages**
-
-Responsive banking application with transaction management and real-time balance calculation.
-
-🔗 **[Live Demo](https://munnakalyani.github.io/bank-transaction-system/)**  
-💻 **[Source Code](https://github.com/munnakalyani/bank-transaction-system)**
-
----
-
-
-
 ## 📊 GitHub Status
 
 <p align="center">
