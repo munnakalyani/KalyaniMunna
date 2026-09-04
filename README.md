@@ -159,75 +159,54 @@ real-world software development projects.
 ---
 
 ## 🚀 Featured Project
-
-### 🏥 AI Hospital Management System
-
-A Flask-based healthcare application that combines hospital management, data processing, and machine learning.
-
-**Technologies:** Python • Flask • Pandas • Scikit-learn • Joblib
-
-<p>
-<a href="https://ai-hospital-management-system-3q5i.onrender.com">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Application-2ea44f?style=for-the-badge">
-</a>
-
-<a href="https://github.com/munnakalyani/ai-hospital-management-system">
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge">
-</a>
-</p>
----
----
-
 ## 🚀 Featured Projects
 
 ### 🏥 AI Hospital Management System
 
-**Python | Flask | Pandas | Scikit-learn | Machine Learning**
+A web-based hospital management application with machine learning integration, built using Python and Flask.
 
-- Developed a web-based hospital management application.
-- Integrated machine learning functionality into a Flask application.
-- Implemented data processing and prediction functionality.
-- Deployed the application on Render.
-- Built a user-friendly web interface.
+**Tech Stack:** Python • Flask • Pandas • Scikit-learn • Joblib • HTML • CSS
 
-🔗 [Live Demo](https://ai-hospital-management-system-3q5i.onrender.com)
+**Key Features:**
+- Hospital management functionality
+- Machine learning prediction
+- Data processing with Pandas
+- User-friendly web interface
+- Responsive design
+- Deployed on Render
 
-🔗 [Source Code](https://github.com/munnakalyani/ai-hospital-management-system)
+🔗 **Live Demo:** https://ai-hospital-management-system-3q5i.onrender.com  
+💻 **GitHub:** https://github.com/munnakalyani/ai-hospital-management-system
 
 ---
 
 ### 🏦 Bank Transaction Management System
-A responsive web-based banking application built with HTML, CSS, and JavaScript.
 
-**Features:**
-- 💰 Deposit and withdrawal
-- 💳 Real-time balance calculation
-- 🧾 Transaction history
-- ✅ Input validation
-- 📱 Responsive design
-- 🚀 GitHub Pages deployment
+A responsive banking application for managing basic financial transactions using frontend technologies.
 
 **Tech Stack:** HTML • CSS • JavaScript • Git • GitHub Pages
 
-<p>
-  <a href="https://munnakalyani.github.io/bank-transaction-system/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-View%20Project-2ea44f?style=for-the-badge">
-  </a>
-  <a href="https://github.com/munnakalyani/bank-transaction-system">
-    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
+**Key Features:**
+- Deposit and withdrawal
+- Real-time balance calculation
+- Transaction history
+- Input validation
+- Responsive user interface
+- GitHub Pages deployment
+
+🔗 **Live Demo:** https://munnakalyani.github.io/bank-transaction-system/  
+💻 **GitHub:** https://github.com/munnakalyani/bank-transaction-system
 ## 🚀 Featured Projects
 
-### 🏥 AI Hospital Management System
+| Project | Technologies | Demo |
+|---|---|---|
+| 🏥 AI Hospital Management System | Python, Flask, ML, Pandas, Scikit-learn | [Live Demo](https://ai-hospital-management-system-3q5i.onrender.com) |
+| 🏦 Bank Transaction Management System | HTML, CSS, JavaScript | [Live Demo](https://munnakalyani.github.io/bank-transaction-system/) |
 
-**Python • Flask • Pandas • Scikit-learn • Machine Learning**
-
-AI-powered hospital management web application.
-
-🔗 **[Live Demo](https://ai-hospital-management-system-3q5i.onrender.com)**  
-💻 **[Source Code](https://github.com/munnakalyani/ai-hospital-management-system)**
-
+| Project | Technologies | Demo |
+|---|---|---|
+| 🏥 AI Hospital Management System | Python, Flask, ML, Pandas, Scikit-learn | [Live Demo](https://ai-hospital-management-system-3q5i.onrender.com) |
+| 🏦 Bank Transaction Management System | HTML, CSS, JavaScript | [Live Demo](https://munnakalyani.github.io/bank-transaction-system/) |
 ---
 ## 📊 GitHub Status
 
