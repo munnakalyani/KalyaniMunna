@@ -182,46 +182,32 @@ A Flask-based healthcare application that combines hospital management, data pro
 
 ### 🏥 AI Hospital Management System
 
-A Flask-based healthcare application combining hospital management, data processing, and machine learning.
+**Python | Flask | Pandas | Scikit-learn | Machine Learning**
 
-**Tech Stack:** Python • Flask • Pandas • Scikit-learn • Joblib
+- Developed a web-based hospital management application.
+- Integrated machine learning functionality into a Flask application.
+- Implemented data processing and prediction functionality.
+- Deployed the application on Render.
+- Built a user-friendly web interface.
 
-<p>
-<a href="https://ai-hospital-management-system-3q5i.onrender.com">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Application-2ea44f?style=for-the-badge">
-</a>
-<a href="https://github.com/munnakalyani/ai-hospital-management-system">
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge">
-</a>
-</p>
+🔗 [Live Demo](https://ai-hospital-management-system-3q5i.onrender.com)
+
+🔗 [Source Code](https://github.com/munnakalyani/ai-hospital-management-system)
 
 ---
 
 ### 🏦 Bank Transaction Management System
 
-A banking application developed to manage and process financial transactions, providing users with an organized way to handle account activities and transaction records.
+**Python | Java | SQL | Database | Web Technologies**
 
-**Tech Stack:** Python • Data Processing • Database • HTML • CSS
+- Developed a banking transaction management application.
+- Implemented transaction processing and account management.
+- Added transaction history and data management functionality.
+- Used database operations for storing and retrieving information.
+- Applied programming and problem-solving concepts to a real-world
+  financial application.
 
-### ✨ Features
-
-- 💳 Bank account management
-- 💰 Deposit and withdrawal transactions
-- 🧾 Transaction history
-- 📊 Transaction tracking
-- 🔍 Transaction search
-- 🔐 Account management
-- 📈 Financial data processing
-
-<p>
-<a href="YOUR_BANK_PROJECT_URL">
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge">
-</a>
-</p>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=munnakalyani&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
